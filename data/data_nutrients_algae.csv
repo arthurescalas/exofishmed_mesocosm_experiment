@@ -1,0 +1,82 @@
+"sample_id","sampling_id","nutrient_id","sampling_day","sampling_date","sample_type","tank_id","treatment","taxonomy","treatment_tank","region","pct_C","pct_H","pct_N","pct_P","P_conc","group","NP"
+"M_M934","M_D08","M_M934_N","8","2019-05-15","algae","08","control","Halopteris_scoparia","C8","Med_Mes",31.889,5.1815,1.2785,0.07,727.5,"Control D8",18.2642857142857
+"M_M885","M_D08","M_M885_N","8","2019-05-15","algae","04","control","Cystoseira_rayssiae","C4","Med_Mes",24.252,4.1085,0.6925,0.03,272.4,"Control D8",23.0833333333333
+"M_M884","M_D08","M_M884_N","8","2019-05-15","algae","04","control","Ulva_intestinalis","C4","Med_Mes",19.398,4.0385,0.7035,0.03,280.1,"Control D8",23.45
+"M_M932","M_D08","M_M932_N","8","2019-05-15","algae","08","control","Padina_pavonica","C8","Med_Mes",24.5775,4.2495,0.777,0.03,329.2,"Control D8",25.9
+"M_M913","M_D08","M_M913_N","8","2019-05-15","algae","06","control","Halopteris_scoparia","C6","Med_Mes",30.932,4.8145,1.736,0.09,850.9,"Control D8",19.2888888888889
+"M_M910","M_D08","M_M910_N","8","2019-05-15","algae","06","control","Padina_pavonica","C6","Med_Mes",25.1703333333333,4.20866666666667,1.23533333333333,0.04,401.5,"Control D8",30.8833333333333
+"M_M933","M_D08","M_M933_N","8","2019-05-15","algae","08","control","Padina_pavonica","C8","Med_Mes",22.1075,4.0655,1.3445,0.04,407.8,"Control D8",33.6125
+"M_M773","M_D00","M_M773_N","0","2019-05-07","algae","sea","environmental_control","Ulva_intestinalis","sea","Med_Mes",19.3875,3.944,0.5925,0.03,301.4,"Environmental control D0",19.75
+"M_M867","M_D08","M_M867_N","8","2019-05-15","algae","02","control","Padina_pavonica","C2","Med_Mes",21.914,3.649,0.814,0.05,525.7,"Control D8",16.28
+"M_M763","M_D00","M_M763_N","0","2019-05-07","algae","sea","environmental_control","Padina_pavonica","sea","Med_Mes",20.939,3.26733333333333,1.48366666666667,0.07,659.3,"Environmental control D0",21.1952380952381
+"M_M750","M_D00","M_M750_N","0","2019-05-07","algae","sea","environmental_control","Cystoseira_rayssiae","sea","Med_Mes",25.335,4.02,1.389,0.05,536.4,"Environmental control D0",27.78
+"M_M888","M_D08","M_M888_N","8","2019-05-15","algae","04","control","Padina_pavonica","C4","Med_Mes",25.7105,4.674,0.674,0.03,343.6,"Control D8",22.4666666666667
+"M_M935","M_D08","M_M935_N","8","2019-05-15","algae","08","control","Halopteris_scoparia","C8","Med_Mes",31.8655,4.9685,1.5105,0.06,607.9,"Control D8",25.175
+"M_M874","M_D08","M_M874_N","8","2019-05-15","algae","03","fish","Cystoseira_rayssiae","F3","Med_Mes",23.2895,3.875,0.6735,0.03,322.2,"Fish D8",22.45
+"M_M876","M_D08","M_M876_N","8","2019-05-15","algae","03","fish","Cystoseira_rayssiae","F3","Med_Mes",26.5,4.335,0.868,0.03,315.4,"Fish D8",28.9333333333333
+"M_M873","M_D08","M_M873_N","8","2019-05-15","algae","03","fish","Ulva_intestinalis","F3","Med_Mes",10.456,1.01933333333333,0.509333333333333,0.04,415.2,"Fish D8",12.7333333333333
+"M_M896","M_D08","M_M896_N","8","2019-05-15","algae","05","fish","Cystoseira_rayssiae","F5","Med_Mes",27.3855,4.534,1.454,0.03,284.4,"Fish D8",48.4666666666667
+"M_M868","M_D08","M_M868_N","8","2019-05-15","algae","02","control","Halopteris_scoparia","C2","Med_Mes",30.69,5.123,1.5055,0.04,419.9,"Control D8",37.6375
+"M_M898","M_D08","M_M898_N","8","2019-05-15","algae","05","fish","Cystoseira_rayssiae","F5","Med_Mes",27.9525,4.781,1.2745,0.03,299.1,"Fish D8",42.4833333333333
+"M_M755","M_D00","M_M755_N","0","2019-05-07","algae","sea","environmental_control","Cystoseira_rayssiae","sea","Med_Mes",28.5205,4.7935,1.5835,0.05,465.8,"Environmental control D0",31.67
+"M_M852","M_D08","M_M852_N","8","2019-05-15","algae","01","fish","Padina_pavonica","F1","Med_Mes",25.691,4.564,1.032,0.04,405.3,"Fish D8",25.8
+"M_M858","M_D08","M_M858_N","8","2019-05-15","algae","01","fish","Ulva_intestinalis","F1","Med_Mes",14.6653333333333,2.21666666666667,0.985333333333334,0.05,498,"Fish D8",19.7066666666667
+"M_M911","M_D08","M_M911_N","8","2019-05-15","algae","06","control","Padina_pavonica","C6","Med_Mes",23.398,4.0895,1,0.05,490.9,"Control D8",20
+"M_M870","M_D08","M_M870_N","8","2019-05-15","algae","03","fish","Ulva_intestinalis","F3","Med_Mes",18.841,3.8765,1.2955,0.05,514.1,"Fish D8",25.91
+"M_M894","M_D08","M_M894_N","8","2019-05-15","algae","05","fish","Ulva_intestinalis","F5","Med_Mes",6.3375,0.4025,0.179,0.02,226.5,"Fish D8",8.95
+"M_M912","M_D08","M_M912_N","8","2019-05-15","algae","06","control","Halopteris_scoparia","C6","Med_Mes",32.8405,5.2105,1.0325,0.05,523,"Control D8",20.65
+"M_M931","M_D08","M_M931_N","8","2019-05-15","algae","08","control","Cystoseira_rayssiae","C8","Med_Mes",24.645,4.11933333333333,0.985666666666667,0.03,280.3,"Control D8",32.8555555555556
+"M_M878","M_D08","M_M878_N","8","2019-05-15","algae","03","fish","Padina_pavonica","F3","Med_Mes",24.691,4.251,1.127,0.04,354.1,"Fish D8",28.175
+"M_M928","M_D08","M_M928_N","8","2019-05-15","algae","08","control","Ulva_intestinalis","C8","Med_Mes",14.2403333333333,2.35033333333333,0.555,0.03,313.9,"Control D8",18.5
+"M_M759","M_D00","M_M759_N","0","2019-05-07","algae","sea","environmental_control","Halopteris_scoparia","sea","Med_Mes",27.1955,4.1615,1.9525,0.07,743.6,"Environmental control D0",27.8928571428571
+"M_M890","M_D08","M_M890_N","8","2019-05-15","algae","04","control","Halopteris_scoparia","C4","Med_Mes",30.8,4.828,1.227,0.05,450.2,"Control D8",24.54
+"M_M866","M_D08","M_M866_N","8","2019-05-15","algae","02","control","Padina_pavonica","C2","Med_Mes",23.7315,4.292,1.0575,0.05,481.8,"Control D8",21.15
+"M_M900","M_D08","M_M900_N","8","2019-05-15","algae","05","fish","Padina_pavonica","F5","Med_Mes",23.3095,4.161,1.3485,0.04,363,"Fish D8",33.7125
+"M_M929","M_D08","M_M929_N","8","2019-05-15","algae","08","control","Cystoseira_rayssiae","C8","Med_Mes",25.2795,4.118,1.0425,0.03,285.7,"Control D8",34.75
+"M_M869","M_D08","M_M869_N","8","2019-05-15","algae","02","control","Halopteris_scoparia","C2","Med_Mes",32.099,4.883,1.1335,0.07,718.2,"Control D8",16.1928571428571
+"M_M920","M_D08","M_M920_N","8","2019-05-15","algae","07","fish","Cystoseira_rayssiae","F7","Med_Mes",27.4495,4.736,1.9745,0.04,420.8,"Fish D8",49.3625
+"M_M851","M_D08","M_M851_N","8","2019-05-15","algae","01","fish","Cystoseira_rayssiae","F1","Med_Mes",24.8195,3.956,1.079,0.04,363.9,"Fish D8",26.975
+"M_M772","M_D00","M_M772_N","0","2019-05-07","algae","sea","environmental_control","Ulva_intestinalis","sea","Med_Mes",14.872,1.748,0.4165,0.03,304.8,"Environmental control D0",13.8833333333333
+"M_M855","M_D08","M_M855_N","8","2019-05-15","algae","01","fish","Halopteris_scoparia","F1","Med_Mes",35.0515,5.1745,1.315,0.06,609,"Fish D8",21.9166666666667
+"M_M925","M_D08","M_M925_N","8","2019-05-15","algae","08","control","Ulva_intestinalis","C8","Med_Mes",25.8995,4.777,1.9595,0.05,531.8,"Control D8",39.19
+"M_M863","M_D08","M_M863_N","8","2019-05-15","algae","02","control","Cystoseira_rayssiae","C2","Med_Mes",26.664,4.4105,1.434,0.04,397.7,"Control D8",35.85
+"M_M770","M_D00","M_M770_N","0","2019-05-07","algae","sea","environmental_control","Ulva_intestinalis","sea","Med_Mes",23.041,4.487,1.1275,0.04,425.6,"Environmental control D0",28.1875
+"M_M756","M_D00","M_M756_N","0","2019-05-07","algae","sea","environmental_control","Halopteris_scoparia","sea","Med_Mes",31.7895,4.889,1.521,0.08,788.7,"Environmental control D0",19.0125
+"M_M921","M_D08","M_M921_N","8","2019-05-15","algae","07","fish","Padina_pavonica","F7","Med_Mes",17.6445,3.1635,0.8775,0.03,289.3,"Fish D8",29.25
+"M_M918","M_D08","M_M918_N","8","2019-05-15","algae","07","fish","Cystoseira_rayssiae","F7","Med_Mes",27.14,4.4765,2.0935,0.03,312,"Fish D8",69.7833333333333
+"M_M906","M_D08","M_M906_N","8","2019-05-15","algae","06","control","Ulva_intestinalis","C6","Med_Mes",21.665,4.5095,1.275,0.03,292.5,"Control D8",42.5
+"M_M857","M_D08","M_M857_N","8","2019-05-15","algae","01","fish","Ulva_intestinalis","F1","Med_Mes",17.689,3.576,1.269,0.05,527.9,"Fish D8",25.38
+"M_M757","M_D00","M_M757_N","0","2019-05-07","algae","sea","environmental_control","Halopteris_scoparia","sea","Med_Mes",32.598,5.081,1.487,0.1,960.9,"Environmental control D0",14.87
+"M_M892","M_D08","M_M892_N","8","2019-05-15","algae","05","fish","Ulva_intestinalis","F5","Med_Mes",12.178,2.47666666666667,0.908666666666667,0.04,366.9,"Fish D8",22.7166666666667
+"M_M916","M_D08","M_M916_N","8","2019-05-15","algae","07","fish","Ulva_intestinalis","F7","Med_Mes",14.1525,1.2545,0.66,0.04,375.5,"Fish D8",16.5
+"M_M881","M_D08","M_M881_N","8","2019-05-15","algae","04","control","Ulva_intestinalis","C4","Med_Mes",17.4296666666667,3.12666666666667,0.742,0.04,365,"Control D8",18.55
+"M_M902","M_D08","M_M902_N","8","2019-05-15","algae","05","fish","Halopteris_scoparia","F5","Med_Mes",27.9133333333333,3.941,1.53066666666667,0.07,657.2,"Fish D8",21.8666666666667
+"M_M765","M_D00","M_M765_N","0","2019-05-07","algae","sea","environmental_control","Padina_pavonica","sea","Med_Mes",17.628,2.682,1.2385,0.07,698.9,"Environmental control D0",17.6928571428571
+"M_M865","M_D08","M_M865_N","8","2019-05-15","algae","02","control","Cystoseira_rayssiae","C2","Med_Mes",24.4575,3.9645,1.209,0.05,538.1,"Control D8",24.18
+"M_M768","M_D00","M_M768_N","0","2019-05-07","algae","sea","environmental_control","Ulva_intestinalis","sea","Med_Mes",22.8325,4.6465,0.852,0.04,423.9,"Environmental control D0",21.3
+"M_M908","M_D08","M_M908_N","8","2019-05-15","algae","06","control","Cystoseira_rayssiae","C6","Med_Mes",24.2455,3.97,1.2165,0.04,371.9,"Control D8",30.4125
+"M_M904","M_D08","M_M904_N","8","2019-05-15","algae","06","control","Ulva_intestinalis","C6","Med_Mes",21.2995,4.523,1.217,0.03,312.2,"Control D8",40.5666666666667
+"M_M907","M_D08","M_M907_N","8","2019-05-15","algae","06","control","Cystoseira_rayssiae","C6","Med_Mes",24.0295,3.9645,1.2405,0.04,357,"Control D8",31.0125
+"M_M767","M_D00","M_M767_N","0","2019-05-07","algae","sea","environmental_control","Padina_pavonica","sea","Med_Mes",27.418,4.794,1.8755,0.06,611.7,"Environmental control D0",31.2583333333333
+"M_M901","M_D08","M_M901_N","8","2019-05-15","algae","05","fish","Halopteris_scoparia","F5","Med_Mes",28.933,4.713,1.8205,0.05,502.3,"Fish D8",36.41
+"M_M752","M_D00","M_M752_N","0","2019-05-07","algae","sea","environmental_control","Cystoseira_rayssiae","sea","Med_Mes",28.9805,4.7475,1.7395,0.05,524.6,"Environmental control D0",34.79
+"M_M899","M_D08","M_M899_N","8","2019-05-15","algae","05","fish","Padina_pavonica","F5","Med_Mes",23.322,4.037,1.6695,0.03,323.3,"Fish D8",55.65
+"M_M854","M_D08","M_M854_N","8","2019-05-15","algae","01","fish","Padina_pavonica","F1","Med_Mes",25.8405,4.837,1.383,0.06,611.7,"Fish D8",23.05
+"M_M879","M_D08","M_M879_N","8","2019-05-15","algae","03","fish","Halopteris_scoparia","F3","Med_Mes",29.449,5.2125,2.069,0.03,285,"Fish D8",68.9666666666667
+"M_M924","M_D08","M_M924_N","8","2019-05-15","algae","07","fish","Halopteris_scoparia","F7","Med_Mes",29.263,4.7015,2.102,0.06,647.7,"Fish D8",35.0333333333333
+"M_M762","M_D00","M_M762_N","0","2019-05-07","algae","sea","environmental_control","Padina_pavonica","sea","Med_Mes",23.008,3.64,1.4565,0.07,680,"Environmental control D0",20.8071428571429
+"M_M887","M_D08","M_M887_N","8","2019-05-15","algae","04","control","Cystoseira_rayssiae","C4","Med_Mes",28.7205,4.805,1.3695,0.04,373.5,"Control D8",34.2375
+"M_M761","M_D00","M_M761_N","0","2019-05-07","algae","sea","environmental_control","Halopteris_scoparia","sea","Med_Mes",33.8925,5.332,1.7875,0.08,769.4,"Environmental control D0",22.34375
+"M_M914","M_D08","M_M914_N","8","2019-05-15","algae","07","fish","Ulva_intestinalis","F7","Med_Mes",22.649,4.69266666666667,1.19166666666667,0.03,343.7,"Fish D8",39.7222222222223
+"M_M862","M_D08","M_M862_N","8","2019-05-15","algae","02","control","Ulva_intestinalis","C2","Med_Mes",31.987,4.78033333333333,1.82033333333333,NA,1673.1,"Control D8",NA
+"M_M877","M_D08","M_M877_N","8","2019-05-15","algae","03","fish","Padina_pavonica","F3","Med_Mes",24.948,4.415,1.5585,0.04,429.7,"Fish D8",38.9625
+"M_M860","M_D08","M_M860_N","8","2019-05-15","algae","02","control","Ulva_intestinalis","C2","Med_Mes",24.866,4.554,1.461,0.05,513.4,"Control D8",29.22
+"M_M891","M_D08","M_M891_N","8","2019-05-15","algae","04","control","Halopteris_scoparia","C4","Med_Mes",31.3225,4.749,1.1215,0.04,378.7,"Control D8",28.0375
+"M_M856","M_D08","M_M856_N","8","2019-05-15","algae","01","fish","Halopteris_scoparia","F1","Med_Mes",33.253,5.15,1.4535,0.05,478.8,"Fish D8",29.07
+"M_M889","M_D08","M_M889_N","8","2019-05-15","algae","04","control","Padina_pavonica","C4","Med_Mes",21.144,3.5705,0.891,0.05,488.5,"Control D8",17.82
+"M_M880","M_D08","M_M880_N","8","2019-05-15","algae","03","fish","Halopteris_scoparia","F3","Med_Mes",29.7635,4.572,1.6925,0.04,401.1,"Fish D8",42.3125
+"M_M923","M_D08","M_M923_N","8","2019-05-15","algae","07","fish","Halopteris_scoparia","F7","Med_Mes",29.942,4.495,2.25,0.04,363.6,"Fish D8",56.25
+"M_M922","M_D08","M_M922_N","8","2019-05-15","algae","07","fish","Padina_pavonica","F7","Med_Mes",22.728,3.9575,1.327,0.03,309,"Fish D8",44.2333333333333
+"M_M849","M_D08","M_M849_N","8","2019-05-15","algae","01","fish","Cystoseira_rayssiae","F1","Med_Mes",22.543,3.4935,0.949,0.02,247.8,"Fish D8",47.45
+"M_M754","M_D00","M_M754_N","0","2019-05-07","algae","sea","environmental_control","Cystoseira_rayssiae","sea","Med_Mes",27.6925,4.6625,1.2925,0.06,563.7,"Environmental control D0",21.5416666666667
+"M_M754","M_D00","M_M754_N","0","2019-05-07","algae","sea","environmental_control","Cystoseira_rayssiae","sea","Med_Mes",27.693,4.663,1.293,0.06,563.7,"Environmental control D0",21.55
